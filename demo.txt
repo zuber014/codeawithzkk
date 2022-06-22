@@ -1,3 +1,4 @@
 Welcome to cedeacademy.
 Daily we are attending sync sessions.
 codeacademy provides service.
+canvas
